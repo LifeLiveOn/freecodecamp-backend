@@ -1,5 +1,6 @@
 {"author":"TnkChaseMe",
 "description": "A tutorial learn from free code camp",
+"license": "MIT",
 "keywords": ["freecodecamp","whyamidoingthis"],
 "name":"fcc-learn-npm-package-json",
 "dependencies":{"express":"^4.18.1"},
